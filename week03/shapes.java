@@ -36,7 +36,7 @@ For each test case, output one line containing Case #t: Ta Tp Ra Rp, where t is 
 
 import java.util.Scanner;
 
-class Solution {
+class shapes {
 
     // Define a class for a 2D point (as x and y coordinates), a segment (as two
     // points), a triangle (as three points),
