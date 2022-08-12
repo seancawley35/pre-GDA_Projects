@@ -22,7 +22,7 @@ import java.util.Scanner;
 import java.io.*;
 import java.util.Arrays;
 
-public class Solution {
+public class reverse {
 
     public static String reversedWords(String x) {
 
